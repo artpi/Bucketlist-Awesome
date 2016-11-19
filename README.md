@@ -19,7 +19,7 @@ It is a list if stuff you want to do before you die (Or kick the bucket).
 
 ## Bucketlist Ideas
 
-- See a Space Launch
+- [See a Space Launch](./details/see-space-launch)
 - Swim with Manatees
 - Drink milk from a coconut
 - See Giants Causeway in Ireland
