@@ -17,7 +17,7 @@ It is a list if stuff you want to do before you die (Or kick the bucket).
 - Own a Tesla
 - Walk dogs from a shelter
 - Study abroad
-- See Preikestolen in Stavanger, Norway
+- [See Preikestolen in Stavanger, Norway](./preikestolen-stavanger-norway)
 - Swim in a Cenote in Mexico
 - Attend Dia de Los Muertos
 - Publish a paper in peer-review journal
