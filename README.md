@@ -8,6 +8,15 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 *What is a bucketlist?*
 It is a list if stuff you want to do before you die (Or kick the bucket).
 
+<!-- MarkdownTOC depth=4 -->
+
+- [Bucketlist Ideas](#bucketlist-ideas)
+- [Books](#books)
+
+<!-- /MarkdownTOC -->
+
+---
+
 ## Bucketlist Ideas
 
 - See a Space Launch
@@ -92,3 +101,8 @@ It is a list if stuff you want to do before you die (Or kick the bucket).
 - Attend SXSW
 - Attend La Tomatina
 - Go on a cruise
+
+
+## Books
+- [Awaken the Giant Within by Tony Robbins](https://www.amazon.com/Awaken-Giant-Within-Immediate-Emotional/dp/0671791540)
+
