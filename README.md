@@ -6,6 +6,7 @@ A curated list of Bucketlist ideas and ways of achieving them.
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. [Make sure to follow the contributions guidelines.](./CONTRIBUTING.md)
 
 *What is a bucketlist?*
+It is a list if stuff you want to do before you die (Or kick the bucket).
 
 ## Bucketlist Ideas
 
